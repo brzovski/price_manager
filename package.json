@@ -1,0 +1,27 @@
+{
+  "name": "price_manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "First_js_code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brzovski/price_manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brzovski/price_manager/issues"
+  },
+  "homepage": "https://github.com/brzovski/price_manager#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.14.1"
+  }
+}
